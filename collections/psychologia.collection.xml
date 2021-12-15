@@ -1,0 +1,200 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col32565</md:content-id>
+    <md:title>Psychologia</md:title>
+    <md:language>pl</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>728df0bb-e07f-489d-91e3-4734a5932f92</md:uuid>
+<md:slug>psychologia</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m89426"/>
+    <col:subcollection>
+      <md:title>Wstęp do psychologii</md:title>
+      <col:content>
+        <col:module document="m89521"/>
+        <col:module document="m89436"/>
+        <col:module document="m89455"/>
+        <col:module document="m89430"/>
+        <col:module document="m89464"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Prowadzenie badań</md:title>
+      <col:content>
+        <col:module document="m89466"/>
+        <col:module document="m89476"/>
+        <col:module document="m89503"/>
+        <col:module document="m89511"/>
+        <col:module document="m89514"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biopsychologia</md:title>
+      <col:content>
+        <col:module document="m89445"/>
+        <col:module document="m89529"/>
+        <col:module document="m89536"/>
+        <col:module document="m89547"/>
+        <col:module document="m89550"/>
+        <col:module document="m89555"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Stany świadomości</md:title>
+      <col:content>
+        <col:module document="m89559"/>
+        <col:module document="m89560"/>
+        <col:module document="m89570"/>
+        <col:module document="m89572"/>
+        <col:module document="m89575"/>
+        <col:module document="m89579"/>
+        <col:module document="m89583"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Wrażenia zmysłowe i spostrzeganie</md:title>
+      <col:content>
+        <col:module document="m89587"/>
+        <col:module document="m89594"/>
+        <col:module document="m89602"/>
+        <col:module document="m89606"/>
+        <col:module document="m89612"/>
+        <col:module document="m89617"/>
+        <col:module document="m89619"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Uczenie się</md:title>
+      <col:content>
+        <col:module document="m89624"/>
+        <col:module document="m89641"/>
+        <col:module document="m89649"/>
+        <col:module document="m89650"/>
+        <col:module document="m89651"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Myślenie i inteligencja</md:title>
+      <col:content>
+        <col:module document="m89657"/>
+        <col:module document="m89720"/>
+        <col:module document="m89659"/>
+        <col:module document="m89669"/>
+        <col:module document="m89706"/>
+        <col:module document="m89713"/>
+        <col:module document="m89717"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Pamięć</md:title>
+      <col:content>
+        <col:module document="m89739"/>
+        <col:module document="m89741"/>
+        <col:module document="m89743"/>
+        <col:module document="m89744"/>
+        <col:module document="m89745"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Psychologia rozwojowa</md:title>
+      <col:content>
+        <col:module document="m89732"/>
+        <col:module document="m89736"/>
+        <col:module document="m89733"/>
+        <col:module document="m89737"/>
+        <col:module document="m89738"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Emocje i motywacje</md:title>
+      <col:content>
+        <col:module document="m89725"/>
+        <col:module document="m89726"/>
+        <col:module document="m89727"/>
+        <col:module document="m89729"/>
+        <col:module document="m89731"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Osobowość</md:title>
+      <col:content>
+        <col:module document="m89652"/>
+        <col:module document="m89654"/>
+        <col:module document="m89655"/>
+        <col:module document="m89656"/>
+        <col:module document="m89665"/>
+        <col:module document="m89662"/>
+        <col:module document="m89666"/>
+        <col:module document="m89686"/>
+        <col:module document="m89701"/>
+        <col:module document="m89694"/>
+        <col:module document="m89723"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Psychologia społeczna</md:title>
+      <col:content>
+        <col:module document="m89615"/>
+        <col:module document="m89618"/>
+        <col:module document="m89620"/>
+        <col:module document="m89622"/>
+        <col:module document="m89623"/>
+        <col:module document="m89625"/>
+        <col:module document="m89626"/>
+        <col:module document="m89628"/>
+        <col:module document="m89646"/>
+        <col:module document="m89648"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Psychologia pracy i organizacji</md:title>
+      <col:content>
+        <col:module document="m89593"/>
+        <col:module document="m89591"/>
+        <col:module document="m89599"/>
+        <col:module document="m89605"/>
+        <col:module document="m89608"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Stres</md:title>
+      <col:content>
+        <col:module document="m89562"/>
+        <col:module document="m89567"/>
+        <col:module document="m89574"/>
+        <col:module document="m89577"/>
+        <col:module document="m89581"/>
+        <col:module document="m89584"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Zaburzenia psychiczne</md:title>
+      <col:content>
+        <col:module document="m89515"/>
+        <col:module document="m89517"/>
+        <col:module document="m89528"/>
+        <col:module document="m89526"/>
+        <col:module document="m89532"/>
+        <col:module document="m89534"/>
+        <col:module document="m89540"/>
+        <col:module document="m89544"/>
+        <col:module document="m89551"/>
+        <col:module document="m89553"/>
+        <col:module document="m89557"/>
+        <col:module document="m89558"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Terapia i leczenie</md:title>
+      <col:content>
+        <col:module document="m89427"/>
+        <col:module document="m89461"/>
+        <col:module document="m89465"/>
+        <col:module document="m89467"/>
+        <col:module document="m89486"/>
+        <col:module document="m89495"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
