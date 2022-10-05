@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="psychologia" collection-id="col32565" style="pl-psychology" href="../collections/psychologia.collection.xml"/>
+    <book slug="psychologia" collection-id="ce79b6d8-885b-464f-ab29-5b8ade422457" href="../collections/psychologia.collection.xml" />
 </container>

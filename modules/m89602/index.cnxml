@@ -1,9 +1,294 @@
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xml:lang="pl"><title>Fale i długości fal</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m89602</md:content-id>
-  <md:title>Fale i długości fal</md:title>
-  <md:abstract/>
-  <md:uuid>4124d43c-3d61-41f7-a4e5-a558b5dfe801</md:uuid>
-</metadata>
-
-<content><para id="eip-818">Bodźce wzrokowe i słuchowe docierają do nas w postaci fal. Choć te dwa rodzaje bodźców bardzo różnią się pod względem budowy, to przebiegi fal mają pewne cechy wspólne, które są szczególnie ważne dla spostrzegania wzrokowego i słuchowego. W tym rozdziale opiszemy fizyczne własności fal, a także związane z nimi doświadczenia percepcyjne.</para><section id="fs-idm163523312"><title id="UUIDe706626b-117d-450e-4dab8bf3fad1960d">Amplituda i długość fali</title><para id="fs-idm59471216">Dwie fizyczne charakterystyki fali to amplituda i długość fali (<link target-id="Figure_05_02_Wave"/>). <term cmlnle:reference="amplituda">Amplituda</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">amplitude</term></foreign>) fali to odległość od linii środkowej do górnego punktu <term cmlnle:reference="grzbiet fali">grzbietu</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">peak</term></foreign>) lub dolnego punktu wgłębienia (<term cmlnle:reference="dolina fali">doliny</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">trough</term></foreign>). <term cmlnle:reference="długość fali">Długość fali</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">wavelength</term></foreign>) odnosi się do długości fali mierzonej od jednego szczytu do drugiego.</para><figure id="Figure_05_02_Wave"><media id="UUID0e045597-fcec-44b0-7106-45115e0a1489" alt=""><image src="../../media/1.jpg" mime-type="image/jpeg"/></media><caption id="UUID133641c1-a0c2-4b0c-7d41d2face1d475a">Amplituda, czyli wysokość fali, jest mierzona od linii środkowej do szczytu (grzbietu) i do wgłębienia (doliny). Długość fali jest mierzona od szczytu do szczytu.</caption></figure><para id="UUID5a29d070-6d27-4902-5601171d855e814e"/><para id="fs-idm20221648">Długość fali bezpośrednio wiąże się z częstotliwością danego przebiegu fal. <term cmlnle:reference="częstotliwość">Częstotliwość</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">frequency</term></foreign>) określa, ile fal przechodzi przez dany punkt w określonym czasie i często wyrażana jest w <term cmlnle:reference="herc (Hz)">hercach</term> (ang. <foreign xml:lang="de"><term cxlxt:index="foreign">hertz</term></foreign>) (Hz), czyli cyklach na sekundę. Fale o większej długości mają mniejszą częstotliwość, a fale o mniejszej długości mają większą częstotliwość (<link target-id="Figure_05_02_Frequencies"/>).</para><figure id="Figure_05_02_Frequencies"><media id="UUID70716bc7-af1d-43ae-428f-a68928839f86" alt=""><image src="../../media/CNX_Psych_05_02_Frequencies.jpg" mime-type="image/jpeg"/></media><caption id="UUID29988845-abf0-4474-737b78abe93b5c22">Fale o różnych długościach i powiązanych z nimi częstotliwościach. Czerwona fala na górze ilustracji ma największą długość (i najniższą częstotliwość). Fala na dole ilustracji ma najmniejszą długość (i najwyższą częstotliwość).</caption></figure></section><section id="fs-idm59549824"><title id="UUID686bed9b-4b73-4dc4-6f3e32efaa79f6d6">Fale świetlne</title><para id="fs-idm58596496"><term cmlnle:reference="światło widzialne">Światło widzialne</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">visible spectrum</term></foreign>) to część większego <term cmlnle:reference="widmo elektromagnetyczne">widma elektromagnetycznego</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">electromagnetic spectrum</term></foreign>), którą możemy zobaczyć. Jak pokazuje <link target-id="Figure_05_02_Spectrum"/>, widmo elektromagnetyczne obejmuje całe promieniowanie elektromagnetyczne, jakie występuje w środowisku, w tym promieniowanie gamma, fale rentgenowskie, światło ultrafioletowe, widzialne, podczerwone, mikrofale i fale radiowe. Widmo widzialne dla człowieka to fale o długości w zakresie od 380 do 740 nm. To bardzo niewiele, ponieważ nanometr (nm) to miliardowa część metra. Inne gatunki zwierząt mogą wykrywać inne zakresy widma elektromagnetycznego. Na przykład pszczoły widzą promieniowanie ultrafioletowe (Wakakuwa et al., 2007), a niektóre węże, jak grzechotniki, oraz niektóre owady wykrywają promieniowanie podczerwone.</para><figure id="Figure_05_02_Spectrum"><media id="UUID551c7c4c-3cec-4cd2-4f51-a5b59b9df2ba" alt=" "><image src="../../media/12.jpg" mime-type="image/jpeg"/></media><caption id="UUID5d32f87e-8c52-4733-65fcd73f000b3d0f">Światło widoczne dla ludzi to jedynie niewielka część widma elektromagnetycznego.</caption></figure><para id="UUID9233d3b9-2296-411d-6f6fe2947f195ae6"/><para id="fs-idp66263920">U ludzi długość fali świetlnej wiąże się ze spostrzeganiem koloru (<link target-id="Figure_05_02_VisSpec"/>). W obrębie widma widzialnego doświadczanie koloru czerwonego jest wywoływane w naszym oku i mózgu przez fale długości około 640 nm. Zieleń jest falą około 500 nm, a fale mające około 450 nm długości rejestrujemy jako barwę fioletową. Fal dłuższych niż czerwona oraz fal krótszych niż fioletowa po prostu nie widzimy. Doświadczanie jasności i natężenia barw przez człowieka jest procesem dość skomplikowanym i opisywanym jakościowo. Można je powiązać z amplitudą fali (im większa amplituda fal, tym jaśniejszy widzimy obraz), jednak będzie to zależność opisana z dużym przybliżeniem. Precyzyjny termin definiujący to zjawisko ilościowo jest używany przez inżynierów i nosi nazwę „natężenia światła”; stosuje się go np. do opisu światła emitowanego przez lasery wykorzystywane w przemyśle.</para><figure id="Figure_05_02_VisSpec"><media id="UUID7b17e97e-df7c-4a7b-61fa-d665dcd6dd16" alt=""><image src="../../media/13.jpg" mime-type="image/jpeg"/></media><caption id="UUIDb48a631c-bafa-436f-6bfadf62948cf53b">Różne długości fali świetlnej wiążą się z postrzeganiem różnych kolorów. (Źródło: modyfikacja pracy Johannesa Ahlmanna).</caption></figure><para id="UUIDe51aee0c-a18c-412d-6c7a89d1e95d310e"/></section><section id="fs-idp5113616"><title id="UUID224f08ea-45b6-4b1c-6ee3ee20dab5e553">Fale dźwiękowe</title><para id="fs-idm2640704">Podobnie jak w przypadku fal świetlnych nasze postrzeganie dźwięku jest ściśle związane z fizycznymi właściwościami fal dźwiękowych. Fale dźwiękowe o wysokiej częstotliwości są postrzegane jako dźwięki wysokie, fale dźwiękowe o niskiej częstotliwości zaś jako niskie dźwięki. Zakres słyszalny częstotliwości dźwięku wynosi 20-20 000 Hz, przy czym najbardziej wrażliwi jesteśmy na dźwięki ze środka tego zakresu.</para><para id="fs-idp89513280">Podobnie jak w przypadku światła widzialnego zakres słyszalności fal dźwiękowych jest różny dla różnych gatunków zwierząt. Na przykład kurczęta mają bardzo ograniczony zakres słyszalności: od 125 do 2000 Hz. Myszy słyszą dźwięki o częstotliwości od 1000 do 91 000 Hz, a wieloryby bieługi od 1000 do 123 000 Hz. Psy i koty domowe słyszą dźwięki w zakresie odpowiednio 70–45 000 Hz i 45–64 000 Hz (Strain, 2003).</para><para id="fs-idp9306416">Głośność konkretnego dźwięku jest blisko powiązana z amplitudą fali dźwiękowej. Wyższe amplitudy oznaczają głośniejszy dźwięk. Głośność mierzona jest w <term cmlnle:reference="decybel (dB)">decybelach</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">decibel</term></foreign>) (dB), w logarytmicznej skali natężenia dźwięku. Typowa rozmowa odpowiada głośności około 60 dB; koncert rockowy może mieć głośność nawet 120 dB (<link target-id="Figure_05_02_AudRange"/>). Szept w odległości 1,5 m lub szum liści to dźwięk na granicy naszego zakresu słyszalności; dźwięki takie jak odgłosy klimatyzacji okiennej, normalnej rozmowy czy nawet ruchu na ulicy są w zakresie tolerancji. Jednak w zakresie od około 80 dB do 130 dB istnieje ryzyko uszkodzenia słuchu: to dźwięk robota kuchennego, kosiarki elektrycznej, ciężarówki (z odległości 7,5 m), przejazdu metra (z odległości 6 m), muzyki rockowej na żywo i pracującego młota pneumatycznego. Wartość progowa wywołująca ból to około 130 dB, jest to dźwięk wydawany przez startujący odrzutowiec lub wystrzał z rewolweru (Dunkle, 1982).</para><figure id="Figure_05_02_AudRange"><media id="UUID84e02e88-19e5-4a7b-61b8-86561de98724" alt=""><image src="../../media/Figure 5.9.jpg" mime-type="image/jpeg"/></media><caption id="UUIDdf83cd66-1d59-4d8c-6589b77a048ef6d9">Ilustracja przedstawia głośność często występujących dźwięków. (Źródło „samoloty”: modyfikacja pracy Maxa Pfandla; źródło „koncert”: modyfikacja pracy Christiana Holméra; źródło „blender”: modyfikacja pracy Jo Brodie; źródło „samochód”: modyfikacja pracy NRMA New Cars/Flickr; źródło „rozmowa”: modyfikacja pracy Joi Ito; źródło „liście”: modyfikacja pracy Aurelijusa Valeiša).</caption></figure><para id="UUIDd8100bd6-55b6-49d4-6470-e8b2def4add9">Nasza percepcja głośności konkretnej fali dźwiękowej zależy od jej amplitudy, czyli im wyższa amplituda, tym głośniejszy jest dźwięk. Gdy jednak będziemy słuchać różnych dźwięków, które mają identyczną amplitudę, okaże się, że jedne dźwięki odbieramy jako głośniejsze, a inne jako cichsze.</para><note id="fs-idp12758112" type="note" class="psychology link-to-learning"><para id="fs-idm87835584">Ten krótki <link url="http://openstax.org/l/frequency">film</link> pokazuje, jak częstotliwość i amplituda wpływają na nasze postrzeganie głośności dźwięku.</para></note><para id="fs-idp63422528">Oczywiście różne instrumenty muzyczne mogą zagrać ten sam ton z taką samą głośnością, a mimo to brzmią zupełnie inaczej. Nazywamy to tembrem dźwięku. <term cmlnle:reference="tembr">Tembr</term> (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">timbre</term></foreign>) odnosi się do czystości dźwięku i wpływa na niego złożona interakcja częstotliwości, amplitudy i czasu nadejścia fal dźwiękowych.</para></section><section id="fs-idm52636800" class="summary"><title id="UUID2f10f3b8-f86d-4e57-7e184b15c38d4e83">Summary</title><para id="fs-idm21712160">Światło i dźwięk to fale o określonych właściwościach fizycznych, takich jak amplituda, długość. Długość fali i częstotliwość są odwrotnie proporcjonalne, czyli dłuższe fale mają mniejszą częstotliwość, a krótsze fale mają większą częstotliwość. W układzie wzrokowym długość fali światła wiąże się z kolorem, a amplituda z jasnością. W układzie słuchowym częstotliwość dźwięku wiąże się z jego wysokością, a amplituda z głośnością.</para></section><section id="fs-idm122916320" class="review-questions"><title id="UUID1344431a-d3d9-45be-5e11759b88311ef6">Review questions</title><exercise id="fs-idp12399872"><problem id="fs-idp90973520"><para id="fs-idm100529712">Która z poniższych opcji prawidłowo dopasowuje nasze postrzeganie kolorów, gdy przechodzimy od mniejszej do większej długości fali?</para><list id="UUID61bf03b5-ac62-440e-7a4b-50c19abe5dde" list-type="enumerated" number-style="upper-alpha"><item id="UUID70cd6ef7-692a-4b55-62b8539ff480c7a4"><para id="UUID706b467d-af1d-4cab-774944846f95cbe7">czerwony – pomarańczowy – żółty</para></item><item id="UUID3296131b-48bc-479f-42cfe0372862350f"><para id="UUID2d69fea5-0813-4fc0-646dbc5f7ea06c3e">żółty – pomarańczowy – czerwony</para></item><item id="UUID39bc7369-d38a-415b-7c7a3e03983a518e"><para id="UUID6fb1e521-637a-486c-72c1682e3c4baf0a">żółty – czerwony – pomarańczowy</para></item><item id="UUID0f2eaa74-f189-46ff-4db893f89fd048ad"><para id="UUIDf2561e65-693a-4498-6fb9d7d18ab04607">pomarańczowy – żółty – czerwony</para></item></list></problem><solution id="fs-idm78349440"><para id="fs-idm73433280">B</para></solution></exercise><exercise id="fs-idm81510256"><problem id="fs-idm36031504"><para id="fs-idm70763712">Światło widzialne to światło w zakresie około ________.</para><list id="UUID66b6937c-aaa3-4fb6-5771-ed29d6c285e6" list-type="enumerated" number-style="upper-alpha"><item id="UUID1eed13f6-1358-42c8-48d33d60dd1a6e2a"><para id="UUID3e629bc8-9faf-4317-6dac9d75808114b7">400–700 nm</para></item><item id="UUID7014ef51-9c3b-4806-5c8e48dd21d17b89"><para id="UUID29ee3abf-924f-4173-4252c3e7bd37d98d">200–900 nm</para></item><item id="UUIDf161031e-3f8c-4be9-6c9c69715b58011e"><para id="UUIDc87cf8c2-b3b7-4165-6e04439514b6d93f">20–20 000 Hz</para></item><item id="UUIDd2b9430b-d68a-42af-5428de2d034053d6"><para id="UUIDc842630d-85f9-4f81-676e9734ccf3af2d">10–20 dB</para></item></list></problem><solution id="b"><para id="bb">A</para></solution></exercise><exercise id="fs-idm16357104"><problem id="fs-idm64682816"><para id="fs-idp25334080">Widmo elektromagnetyczne obejmuje ________.</para><list id="UUID784f0af7-8b4b-441d-6e03-1cb5a40e1dec" list-type="enumerated" number-style="upper-alpha"><item id="UUIDad16c9cd-def3-47e8-4dde4158e5e63d2c"><para id="UUID372c90a9-517d-4b8c-791310f000a25389">fale radiowe</para></item><item id="UUIDed0d22f5-4bd8-4155-7cd486b272f8dce6"><para id="UUID9d8fca80-9ae2-4f91-45098439a5c4c57a">promieniowanie rentgenowskie</para></item><item id="UUID02993de3-d03c-40c1-5ea8650f9073c06a"><para id="UUID7951e532-2e5b-49c6-7ee3de9ecb50fccd">światło podczerwone</para></item><item id="UUIDb003e2a2-fe2d-4a3a-5993e3d107874cfa"><para id="UUID4ea658cd-5f8a-4d0d-6897cee56cb9d0bc">wszystkie powyższe</para></item></list></problem><solution id="fs-idm77427312"><para id="fs-idm45919056">D</para></solution></exercise><exercise id="fs-idp14847328"><problem id="fs-idm67880400"><para id="fs-idm142650928">Zakres słyszalny dla ludzi to ________.</para><list id="UUID45293871-7881-47e4-634f-ac6c24c74421" list-type="enumerated" number-style="upper-alpha"><item id="UUID6c55a43f-3e81-4541-7271001559defedf"><para id="UUID0cfa258b-820a-4b30-58702f545df8c523">380–740 Hz</para></item><item id="UUIDb47976e5-843e-4f60-45300c0505fac655"><para id="UUIDd9a2e956-a1d1-4e2a-4d1186ffd953202d">10–20 dB</para></item><item id="UUIDe4106d01-4dbe-4b73-4db5243ba2a71b33"><para id="UUID3224f5b0-64dd-41c3-4046465c9dd17947">mniej niż 300 dB</para></item><item id="UUID7af55560-846b-4dca-4e656f9e2762a052"><para id="UUIDdc7bc67e-964b-47ab-7b40ed952b8c7c80">20–20 000 Hz</para></item></list></problem><solution id="c"><para id="a">D</para></solution></exercise><exercise id="fs-idm106796848"><problem id="fs-idm40130912"><para id="fs-idm64381872">Jakość dźwięku, na którą wpływa częstotliwość, amplituda i czas dotarcia fali dźwiękowej, to ________.</para><list id="UUID35e21364-4f40-416d-5eef-190489a4d1cf" list-type="enumerated" number-style="upper-alpha"><item id="UUID34eeeb57-97b2-41ca-55511b1c3f6bd7d8"><para id="UUID615af43f-ac56-4de3-579c143b5d37ea61">wysokość</para></item><item id="UUIDedd380e4-c52c-4936-6173d34764c67249"><para id="UUIDd743fb93-045c-48a8-5386ed855e94a5d4">ton</para></item><item id="UUIDe0ca4664-d7b9-4a42-5569a573e4760909"><para id="UUID6ea4d381-3ef6-4b61-6d76e2e732be1711">elektromagnetyzm</para></item><item id="UUID4512829f-4f35-4ac8-63a5a6541cabc255"><para id="UUID76aa1879-3fe9-4248-6b07a81d08d628e0">tembr</para></item></list></problem><solution id="fs-idp12334800"><para id="fs-idm90854096">D</para></solution></exercise></section><section id="fs-idm25780928" class="critical-thinking"><title id="UUIDf98150d7-c603-457e-57dc2fd706c3d458">Critical thinking</title><exercise id="fs-idm59369024"><problem id="fs-idm67871344"><para id="fs-idm63284816">Jak sądzisz, dlaczego różne gatunki zwierząt mają odmienne zakresy wrażliwości na bodźce wzrokowe i słuchowe w porównaniu z ludźmi?</para></problem><solution id="fs-idm67830432"><para id="fs-idm80845184">Różne gatunki zwierząt ewoluowały tak, aby możliwie najlepiej dopasować się do swoich nisz środowiskowych. Na przykład pszczoły potrzebują do przeżycia roślin kwitnących. Widzenie w świetle ultrafioletowym może być pomoce w lokalizowaniu kwiatów. Promieniowanie ultrafioletowe wskazuje na środek kwiatu, gdzie znajdują się pyłek i nektar. Podobne argumenty można wysunąć w przypadku widzenia w podczerwieni u węży (które dzięki tej zdolności wykrywają obecność swoich ofiar), a także dla różnic w zakresach słyszalnych u gatunków opisanych w tym rozdziale.</para></solution></exercise><exercise id="fs-idm64989984"><problem id="fs-idm140704528"><para id="fs-idm90062112">Jak sądzisz, dlaczego ludzie są szczególnie wrażliwi na dźwięki o częstotliwości przypadającej na środek zakresu częstotliwości słyszalnych?</para></problem><solution id="dd"><para id="ad">Ponownie można tu wysunąć argument ewolucyjny. Biorąc pod uwagę fakt, że ludzki głos przypada na środek tego zakresu, a także znaczenie komunikacji między ludźmi, można wysnuć wniosek, że jest to przystosowanie adaptacyjne: zakres słyszalny odpowiada temu konkretnemu rodzajowi bodźca.</para></solution></exercise></section><section id="fs-idm59868416" class="personal-application"><title id="UUIDc4cddf09-4f06-4114-7b5f082248f0cc9a">Pytanie do pracy własnej</title><exercise id="fs-idm61201808"><problem id="fs-idm2626016"><para id="fs-idm56237920">Jeśli w dzieciństwie towarzyszyło ci zwierzę domowe, to z pewnością zdarzały się sytuacje, gdy wydawało się, że zwierzak jakby słyszy coś, czego ty nie słyszysz. Po przeczytaniu tego rozdziału być może domyślasz się, co to mogło być. Jak wytłumaczysz to koledze, który nie uczestniczył w takich zajęciach?</para></problem></exercise></section></content><glossary><definition id="fs-idm67269216"><term cmlnle:reference="amplituda">amplituda (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">amplitude</term></foreign>)</term><meaning id="UUID37be012c-455e-4d5d-5c6d-30806ec473ce"><para id="UUIDeb7f5301-1a31-4555-4a1cf3a2e110cbd5">odległość maksymalnego wychylenia od położenia równowagi w ruchu falowym</para></meaning></definition><definition id="fs-idm75103440"><term cmlnle:reference="decybel (dB)">decybel (dB) (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">decibel</term></foreign>)</term><meaning id="UUIDdd8e5fbe-e274-4f4e-51b6-428f0031f34f"><para id="UUID55438737-a49f-4b57-7d738b5a2bbd0867">logarytmiczna jednostka natężenia dźwięku</para></meaning></definition><definition id="fs-idm86600656"><term cmlnle:reference="widmo elektromagnetyczne">widmo elektromagnetyczne (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">electromagnetic spectrum</term></foreign>)</term><meaning id="UUID21bb33fa-1d69-4248-6d7d-e2232280461e"><para id="UUID8b1a0303-a2b6-45c5-6793ada790aace67">zakres częstości obserwowanego promieniowania elektromagnetycznego</para></meaning></definition><definition id="fs-idm98740400"><term cmlnle:reference="częstotliwość">częstotliwość (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">frequency</term></foreign>)</term><meaning id="UUIDa211303a-773f-474a-44aa-52bfbcfc86b3"><para id="UUID9377a030-b8e6-48f2-6124be2801b092ea">liczba drgań fali w jednostce czasu</para></meaning></definition><definition id="fs-idm88222768"><term cmlnle:reference="herc (Hz)">herc (Hz) (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">hertz</term></foreign>)</term><meaning id="UUID02a9857a-2640-436b-7364-cd1e947302a8"><para id="UUIDc5c0c469-c778-4125-7e0e2d3d4efd1638">liczba drgań fali na sekundę; miara częstotliwości</para></meaning></definition><definition id="fs-idm59957328"><term cmlnle:reference="grzbiet fali">grzbiet fali (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">peak</term></foreign>)</term><meaning id="UUIDc5231454-476b-4dc3-53c7-f0c39de459cf"><para id="UUID53f87f37-9152-4340-67868a3a8106a060">maksimum wychylenia fali</para></meaning></definition><definition id="fs-idm39222352"><term cmlnle:reference="wysokość dźwięku">wysokość dźwięku (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">pitch</term></foreign>)</term><meaning id="UUID9febb002-52d9-4ce7-777d-5047c113bd64"><para id="UUIDbe544904-7033-4492-6b488f96a0491d51">postrzeganie częstotliwości dźwięku</para></meaning></definition><definition id="fs-idm10555952"><term cmlnle:reference="tembr">tembr (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">timbre</term></foreign>)</term><meaning id="UUID1b4b95f3-40f6-4ad4-57c4-5a94af0627e0"><para id="UUID1b3fc076-fc05-4f4d-7cb08152b28bc3d0">barwa dźwięku</para></meaning></definition><definition id="fs-idm88359392"><term cmlnle:reference="dolina fali">dolina fali (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">trough</term></foreign>)</term><meaning id="UUID87d8291e-f889-4117-52b5-54ae2aa1e3c5"><para id="UUIDc0a3d0d1-9df1-4466-5b6810f88c300b0c">najniższy punkt fali</para></meaning></definition><definition id="fs-idp17396208"><term cmlnle:reference="światło widzialne">światło widzialne (ang. <foreign xml:lang="en"><term cxlxt:index="foreign">visible spectrum</term></foreign>)</term><meaning id="UUIDce12cd1b-6127-4bc1-46b4-53621fe9f52d"><para id="UUIDc2a22fff-42c1-4198-675d228003735f39">ta część widma elektromagnetycznego, którą widzi człowiek</para></meaning></definition><definition id="fs-idm78642400"><term cmlnle:reference="długość fali">długość fali (ang. wavelength)</term><meaning id="UUIDcd245127-f54a-4ce6-7174-7363175eb52a"><para id="UUID3a446510-d12d-41e1-4fa97be20f50d001">odległość między dwoma najbliższymi grzbietami fali</para></meaning></definition></glossary></document>
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc8908c39-c357-43bf-b29e-71c2c281df37" id="Uc8908c39-c357-43bf-b29e-71c2c281df37" xml:lang="pl" cnxml-version="0.7">
+  <title>Fale i długości fal</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m89602</md:content-id>
+    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
+    <md:title>Fale i długości fal</md:title>
+    <md:language>pl</md:language>
+    <md:version>2022-10-05T10:16:54.232502727+00:00</md:version>
+    <md:created>2022-10-05T10:16:54.232502727+00:00</md:created>
+    <md:revised>2022-10-05T10:16:54.232502727+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:abstract />
+    <md:uuid>c8908c39-c357-43bf-b29e-71c2c281df37</md:uuid>
+  </metadata>
+  <content>
+    <para id="eip-818">Bodźce wzrokowe i słuchowe docierają do nas w postaci fal. Choć te dwa rodzaje bodźców bardzo różnią się pod względem budowy, to przebiegi fal mają pewne cechy wspólne, które są szczególnie ważne dla spostrzegania wzrokowego i słuchowego. W tym rozdziale opiszemy fizyczne własności fal, a także związane z nimi doświadczenia percepcyjne.</para>
+    <section id="fs-idm163523312">
+      <title id="UUIDe706626b-117d-450e-4dab8bf3fad1960d">Amplituda i długość fali</title>
+      <para id="fs-idm59471216">Dwie fizyczne charakterystyki fali to amplituda i długość fali (<link target-id="Figure_05_02_Wave" id="UUID79035e50-4368-466b-4650-e1944453f5c4" />). <term cmlnle:reference="amplituda" id="UUID88b02e93-3f97-4059-475f-87283b9c569e">Amplituda</term> (ang. <foreign xml:lang="en" id="UUID39ea5ae2-dcd4-4f74-5e49-2d2be8f2cace"><term cxlxt:index="foreign" id="UUIDdb371043-3ba6-43fc-4f08-992094a9ab3c">amplitude</term></foreign>) fali to odległość od linii środkowej do górnego punktu <term cmlnle:reference="grzbiet fali" id="UUID9723d2dd-e4bf-4de4-4d88-6a88566b6802">grzbietu</term> (ang. <foreign xml:lang="en" id="UUID744af793-e05c-498f-56ca-ce8481f3db86"><term cxlxt:index="foreign" id="UUID19baa9f9-69ca-4e4a-4847-3cc29c05a08b">peak</term></foreign>) lub od linii środkowej do dolnego punktu wgłębienia (<term cmlnle:reference="dolina fali" id="UUID2dde7328-7268-4775-7822-ac16b70ca9cb">doliny</term> (ang. <foreign xml:lang="en" id="UUID3713b8be-a61d-413c-6427-58256f5c041e"><term cxlxt:index="foreign" id="UUIDef7ed572-677b-4794-6bd7-c3cf8b3daf60">trough</term></foreign>). <term cmlnle:reference="długość fali" id="UUID2d92ca92-337b-4ab4-4629-67c42f0cce9c">Długość fali</term> (ang. <foreign xml:lang="en" id="UUID0eaba539-8280-4719-7905-a6db4a80e123"><term cxlxt:index="foreign" id="UUID152e2128-7000-4f95-6506-da098dc5c0b6">wavelength</term></foreign>) odnosi się do długości fali mierzonej od jednego szczytu do drugiego.</para>
+      <figure id="Figure_05_02_Wave">
+        <media alt="" id="UUID0e045597-fcec-44b0-7106-45115e0a1489">
+          <image src="../../media//1.jpg" mime-type="image/jpeg" id="UUIDca69c382-72ae-433c-46a6-087829dc4cd1" />
+        </media>
+        <caption id="UUID133641c1-a0c2-4b0c-7d41d2face1d475a">Amplituda, czyli wysokość fali, jest mierzona od linii środkowej do szczytu (grzbietu) albo od linii środkowej do wgłębienia (doliny). Długość fali jest mierzona od szczytu do szczytu.</caption>
+      </figure>
+      <para id="UUID5a29d070-6d27-4902-5601171d855e814e" />
+      <para id="fs-idm20221648">Długość fali bezpośrednio wiąże się z częstotliwością danego przebiegu fal. <term cmlnle:reference="częstotliwość" id="UUID1794afd3-5a8b-400f-7555-b7f334efa943">Częstotliwość</term> (ang. <foreign xml:lang="en" id="UUID1fdf6592-e5a4-4eb0-7adf-0ea4113cc77b"><term cxlxt:index="foreign" id="UUID02ff2158-4c50-4c51-56f4-4371c9a495e3">frequency</term></foreign>) określa, ile fal przechodzi przez dany punkt w określonym czasie i często wyrażana jest w <term cmlnle:reference="herc (Hz)" id="UUID842a3a1a-dd5b-4438-513d-874090163340">hercach</term> (ang. <foreign xml:lang="de" id="UUID9541031f-836b-4cbf-76db-2ac2681bc957"><term cxlxt:index="foreign" id="UUIDeddea83a-5c71-41ca-6f49-c3649711d54e">hertz</term></foreign>) (Hz), czyli cyklach na sekundę. Fale o większej długości mają mniejszą częstotliwość, a fale o mniejszej długości mają większą częstotliwość (<link target-id="Figure_05_02_Frequencies" id="UUIDa2ef1b1a-4f3a-44b2-4b8d-1399953fed66" />).</para>
+      <figure id="Figure_05_02_Frequencies">
+        <media alt="" id="UUID70716bc7-af1d-43ae-428f-a68928839f86">
+          <image src="../../media//CNX_Psych_05_02_Frequencies.jpg" mime-type="image/jpeg" id="UUID14fcaccb-b1bb-4f84-61ea-6ad74a69d547" />
+        </media>
+        <caption id="UUID29988845-abf0-4474-737b78abe93b5c22">Fale o różnych długościach i powiązanych z nimi częstotliwościach. Czerwona fala na górze ilustracji ma największą długość (i najniższą częstotliwość). Fala na dole ilustracji ma najmniejszą długość (i najwyższą częstotliwość).</caption>
+      </figure>
+    </section>
+    <section id="fs-idm59549824">
+      <title id="UUID686bed9b-4b73-4dc4-6f3e32efaa79f6d6">Fale świetlne</title>
+      <para id="fs-idm58596496"><term cmlnle:reference="światło widzialne" id="UUID4f42f071-522e-4faa-6d9b-7dbb7534c74a">Światło widzialne</term> (ang. <foreign xml:lang="en" id="UUID217b677f-3c59-4ee5-5bba-79867c42bcb2"><term cxlxt:index="foreign" id="UUID05685cfe-f974-478f-7450-814a5675e9ec">visible spectrum</term></foreign>) to część większego <term cmlnle:reference="widmo elektromagnetyczne" id="UUID1cd31282-8a7b-43ec-605c-d3863e6b15d2">widma elektromagnetycznego</term> (ang. <foreign xml:lang="en" id="UUID1c3ff8ce-fc3a-4385-4217-217f6d915396"><term cxlxt:index="foreign" id="UUID54d33a3b-40a7-4b3e-6732-a64c3096578e">electromagnetic spectrum</term></foreign>), którą możemy zobaczyć. Jak pokazuje <link target-id="Figure_05_02_Spectrum" id="UUID32b581ae-1cef-4f30-6ee8-af83a6d8295d" />, widmo elektromagnetyczne obejmuje całe promieniowanie elektromagnetyczne, jakie występuje w środowisku, w tym promieniowanie gamma, fale rentgenowskie, światło ultrafioletowe, widzialne, podczerwone, mikrofale i fale radiowe. Widmo widzialne dla człowieka to fale o długości w zakresie od 380 do 740 nm. To bardzo niewiele, ponieważ nanometr (nm) to miliardowa część metra. Inne gatunki zwierząt mogą wykrywać inne zakresy widma elektromagnetycznego. Na przykład pszczoły widzą promieniowanie ultrafioletowe (Wakakuwa et al., 2007), a niektóre węże, jak grzechotniki, oraz niektóre owady wykrywają promieniowanie podczerwone.</para>
+      <figure id="Figure_05_02_Spectrum">
+        <media alt=" " id="UUID551c7c4c-3cec-4cd2-4f51-a5b59b9df2ba">
+          <image src="../../media//12.jpg" mime-type="image/jpeg" id="UUIDcad81bf1-5501-4578-51bb-62c9c137ba6f" />
+        </media>
+        <caption id="UUID5d32f87e-8c52-4733-65fcd73f000b3d0f">Światło widoczne dla ludzi to jedynie niewielka część widma elektromagnetycznego.</caption>
+      </figure>
+      <para id="UUID9233d3b9-2296-411d-6f6fe2947f195ae6" />
+      <para id="fs-idp66263920">U ludzi długość fali świetlnej wiąże się ze spostrzeganiem koloru (<link target-id="Figure_05_02_VisSpec" id="UUID6e9da288-a666-40ea-7ce1-fd6dab5fbec4" />). W obrębie widma widzialnego doświadczanie koloru czerwonego jest wywoływane w naszym oku i mózgu przez fale długości około 640 nm. Zieleń jest falą około 500 nm, a fale mające około 450 nm długości rejestrujemy jako barwę fioletową. Fal dłuższych niż czerwona oraz fal krótszych niż fioletowa po prostu nie widzimy. Doświadczanie jasności i natężenia barw przez człowieka jest procesem dość skomplikowanym i opisywanym jakościowo. Można je powiązać z amplitudą fali (im większa amplituda fal, tym jaśniejszy widzimy obraz), jednak będzie to zależność opisana z dużym przybliżeniem. Precyzyjny termin definiujący to zjawisko ilościowo jest używany przez inżynierów i nosi nazwę „natężenia światła”; stosuje się go np. do opisu światła emitowanego przez lasery wykorzystywane w przemyśle.</para>
+      <figure id="Figure_05_02_VisSpec">
+        <media alt="" id="UUID7b17e97e-df7c-4a7b-61fa-d665dcd6dd16">
+          <image src="../../media//13.jpg" mime-type="image/jpeg" id="UUIDa7836ad1-0fc2-4314-428b-326afc0edbcf" />
+        </media>
+        <caption id="UUIDb48a631c-bafa-436f-6bfadf62948cf53b">Różne długości fali świetlnej wiążą się z postrzeganiem różnych kolorów. (Źródło: modyfikacja pracy Johannesa Ahlmanna).</caption>
+      </figure>
+      <para id="UUIDe51aee0c-a18c-412d-6c7a89d1e95d310e" />
+    </section>
+    <section id="fs-idp5113616">
+      <title id="UUID224f08ea-45b6-4b1c-6ee3ee20dab5e553">Fale dźwiękowe</title>
+      <para id="fs-idm2640704">Podobnie jak w przypadku fal świetlnych nasze postrzeganie dźwięku jest ściśle związane z fizycznymi właściwościami fal dźwiękowych. Fale dźwiękowe o wysokiej częstotliwości są postrzegane jako dźwięki wysokie, fale dźwiękowe o niskiej częstotliwości zaś jako niskie dźwięki. Zakres słyszalny częstotliwości dźwięku wynosi 20-20 000 Hz, przy czym najbardziej wrażliwi jesteśmy na dźwięki ze środka tego zakresu.</para>
+      <para id="fs-idp89513280">Podobnie jak w przypadku światła widzialnego zakres słyszalności fal dźwiękowych jest różny dla różnych gatunków zwierząt. Na przykład kurczęta mają bardzo ograniczony zakres słyszalności: od 125 do 2000 Hz. Myszy słyszą dźwięki o częstotliwości od 1000 do 91 000 Hz, a wieloryby bieługi od 1000 do 123 000 Hz. Psy i koty domowe słyszą dźwięki w zakresie odpowiednio 70–45 000 Hz i 45–64 000 Hz (Strain, 2003).</para>
+      <para id="fs-idp9306416">Głośność konkretnego dźwięku jest blisko powiązana z amplitudą fali dźwiękowej. Wyższe amplitudy oznaczają głośniejszy dźwięk. Głośność mierzona jest w <term cmlnle:reference="decybel (dB)" id="UUID28834f28-d677-42d9-5329-9b4f1cca76b6">decybelach</term> (ang. <foreign xml:lang="en" id="UUIDc5219cf4-53ea-499d-4b93-31194a0e5d1f"><term cxlxt:index="foreign" id="UUID15293687-53e9-45f0-6395-7d5ce70b9011">decibel</term></foreign>) (dB), w logarytmicznej skali natężenia dźwięku. Typowa rozmowa odpowiada głośności około 60 dB; koncert rockowy może mieć głośność nawet 120 dB (<link target-id="Figure_05_02_AudRange" id="UUID31c86f2c-6023-423d-6ecc-09908b7df883" />). Szept w odległości 1,5 m lub szum liści to dźwięk na granicy naszego zakresu słyszalności; dźwięki takie jak odgłosy klimatyzacji okiennej, normalnej rozmowy czy nawet ruchu na ulicy są w zakresie tolerancji. Jednak w zakresie od około 80 dB do 130 dB istnieje ryzyko uszkodzenia słuchu: to dźwięk robota kuchennego, kosiarki elektrycznej, ciężarówki (z odległości 7,5 m), przejazdu metra (z odległości 6 m), muzyki rockowej na żywo i pracującego młota pneumatycznego. Wartość progowa wywołująca ból to około 130 dB, jest to dźwięk wydawany przez startujący odrzutowiec lub wystrzał z rewolweru (Dunkle, 1982).</para>
+      <figure id="Figure_05_02_AudRange">
+        <media alt="" id="UUID84e02e88-19e5-4a7b-61b8-86561de98724">
+          <image src="../../media//Figure 5.9.jpg" mime-type="image/jpeg" id="UUID1e081308-751d-4d44-63fb-ee6b3dd80c04" />
+        </media>
+        <caption id="UUIDdf83cd66-1d59-4d8c-6589b77a048ef6d9">Rysunek przedstawia głośność często występujących dźwięków. (Źródło „samoloty”: modyfikacja pracy Maxa Pfandla; źródło „koncert”: modyfikacja pracy Christiana Holméra; źródło „blender”: modyfikacja pracy Jo Brodie; źródło „samochód”: modyfikacja pracy NRMA New Cars/Flickr; źródło „rozmowa”: modyfikacja pracy Joi Ito; źródło „liście”: modyfikacja pracy Aurelijusa Valeiša).</caption>
+      </figure>
+      <para id="UUIDd8100bd6-55b6-49d4-6470-e8b2def4add9">Nasza percepcja głośności konkretnej fali dźwiękowej zależy od jej amplitudy, czyli im wyższa amplituda, tym głośniejszy jest dźwięk. Gdy jednak będziemy słuchać różnych dźwięków, które mają identyczną amplitudę, okaże się, że jedne dźwięki odbieramy jako głośniejsze, a inne jako cichsze.</para>
+      <note type="note" id="fs-idp12758112" class="link-to-learning psychology">
+        <para id="fs-idm87835584">Ten krótki <link url="http://openstax.org/l/frequency" id="UUID1a6cc87d-b235-4e65-48c9-030a50124272">film</link> pokazuje, jak częstotliwość i amplituda wpływają na nasze postrzeganie głośności dźwięku.</para>
+      </note>
+      <para id="fs-idp63422528">Oczywiście różne instrumenty muzyczne mogą zagrać ten sam ton z taką samą głośnością, a mimo to brzmią zupełnie inaczej. Nazywamy to tembrem dźwięku. <term cmlnle:reference="tembr" id="UUID05e7eb89-dc8d-4977-51d2-e48e9e170423">Tembr</term> (ang. <foreign xml:lang="en" id="UUIDe314268a-bf98-430e-6141-b2cfab24900f"><term cxlxt:index="foreign" id="UUID7497d8a9-02f1-43ed-42ae-8c536d4209d6">timbre</term></foreign>) odnosi się do czystości dźwięku i wpływa na niego złożona interakcja częstotliwości, amplitudy i czasu nadejścia fal dźwiękowych.</para>
+    </section>
+    <section id="fs-idm52636800" class="summary">
+      <title id="UUID2f10f3b8-f86d-4e57-7e184b15c38d4e83">Summary</title>
+      <para id="fs-idm21712160">Światło i dźwięk to fale o określonych właściwościach fizycznych, takich jak amplituda, długość. Długość fali i częstotliwość są odwrotnie proporcjonalne, czyli dłuższe fale mają mniejszą częstotliwość, a krótsze fale mają większą częstotliwość. W układzie wzrokowym długość fali światła wiąże się z kolorem, a amplituda z jasnością. W układzie słuchowym częstotliwość dźwięku wiąże się z jego wysokością, a amplituda z głośnością.</para>
+    </section>
+    <section id="fs-idm122916320" class="review-questions">
+      <title id="UUID1344431a-d3d9-45be-5e11759b88311ef6">Review questions</title>
+      <exercise id="fs-idp12399872">
+        <problem id="fs-idp90973520">
+          <para id="fs-idm100529712">Która z poniższych opcji prawidłowo dopasowuje nasze postrzeganie kolorów, gdy przechodzimy od mniejszej do większej długości fali?</para>
+          <list list-type="enumerated" number-style="upper-alpha" id="UUID61bf03b5-ac62-440e-7a4b-50c19abe5dde">
+            <item id="UUID70cd6ef7-692a-4b55-62b8539ff480c7a4">
+              <para id="UUID706b467d-af1d-4cab-774944846f95cbe7">czerwony – pomarańczowy – żółty</para>
+            </item>
+            <item id="UUID3296131b-48bc-479f-42cfe0372862350f">
+              <para id="UUID2d69fea5-0813-4fc0-646dbc5f7ea06c3e">żółty – pomarańczowy – czerwony</para>
+            </item>
+            <item id="UUID39bc7369-d38a-415b-7c7a3e03983a518e">
+              <para id="UUID6fb1e521-637a-486c-72c1682e3c4baf0a">żółty – czerwony – pomarańczowy</para>
+            </item>
+            <item id="UUID0f2eaa74-f189-46ff-4db893f89fd048ad">
+              <para id="UUIDf2561e65-693a-4498-6fb9d7d18ab04607">pomarańczowy – żółty – czerwony</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm78349440">
+          <para id="fs-idm73433280">B</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm81510256">
+        <problem id="fs-idm36031504">
+          <para id="fs-idm70763712">Światło widzialne to światło w zakresie około ________.</para>
+          <list list-type="enumerated" number-style="upper-alpha" id="UUID66b6937c-aaa3-4fb6-5771-ed29d6c285e6">
+            <item id="UUID1eed13f6-1358-42c8-48d33d60dd1a6e2a">
+              <para id="UUID3e629bc8-9faf-4317-6dac9d75808114b7">400–700 nm</para>
+            </item>
+            <item id="UUID7014ef51-9c3b-4806-5c8e48dd21d17b89">
+              <para id="UUID29ee3abf-924f-4173-4252c3e7bd37d98d">200–900 nm</para>
+            </item>
+            <item id="UUIDf161031e-3f8c-4be9-6c9c69715b58011e">
+              <para id="UUIDc87cf8c2-b3b7-4165-6e04439514b6d93f">20–20 000 Hz</para>
+            </item>
+            <item id="UUIDd2b9430b-d68a-42af-5428de2d034053d6">
+              <para id="UUIDc842630d-85f9-4f81-676e9734ccf3af2d">10–20 dB</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="b">
+          <para id="bb">A</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm16357104">
+        <problem id="fs-idm64682816">
+          <para id="fs-idp25334080">Widmo elektromagnetyczne obejmuje ________.</para>
+          <list list-type="enumerated" number-style="upper-alpha" id="UUID784f0af7-8b4b-441d-6e03-1cb5a40e1dec">
+            <item id="UUIDad16c9cd-def3-47e8-4dde4158e5e63d2c">
+              <para id="UUID372c90a9-517d-4b8c-791310f000a25389">fale radiowe</para>
+            </item>
+            <item id="UUIDed0d22f5-4bd8-4155-7cd486b272f8dce6">
+              <para id="UUID9d8fca80-9ae2-4f91-45098439a5c4c57a">promieniowanie rentgenowskie</para>
+            </item>
+            <item id="UUID02993de3-d03c-40c1-5ea8650f9073c06a">
+              <para id="UUID7951e532-2e5b-49c6-7ee3de9ecb50fccd">światło podczerwone</para>
+            </item>
+            <item id="UUIDb003e2a2-fe2d-4a3a-5993e3d107874cfa">
+              <para id="UUID4ea658cd-5f8a-4d0d-6897cee56cb9d0bc">wszystkie powyższe</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm77427312">
+          <para id="fs-idm45919056">D</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp14847328">
+        <problem id="fs-idm67880400">
+          <para id="fs-idm142650928">Zakres słyszalny dla ludzi to ________.</para>
+          <list list-type="enumerated" number-style="upper-alpha" id="UUID45293871-7881-47e4-634f-ac6c24c74421">
+            <item id="UUID6c55a43f-3e81-4541-7271001559defedf">
+              <para id="UUID0cfa258b-820a-4b30-58702f545df8c523">380–740 Hz</para>
+            </item>
+            <item id="UUIDb47976e5-843e-4f60-45300c0505fac655">
+              <para id="UUIDd9a2e956-a1d1-4e2a-4d1186ffd953202d">10–20 dB</para>
+            </item>
+            <item id="UUIDe4106d01-4dbe-4b73-4db5243ba2a71b33">
+              <para id="UUID3224f5b0-64dd-41c3-4046465c9dd17947">mniej niż 300 dB</para>
+            </item>
+            <item id="UUID7af55560-846b-4dca-4e656f9e2762a052">
+              <para id="UUIDdc7bc67e-964b-47ab-7b40ed952b8c7c80">20–20 000 Hz</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="c">
+          <para id="a">D</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm106796848">
+        <problem id="fs-idm40130912">
+          <para id="fs-idm64381872">Jakość dźwięku, na którą wpływa częstotliwość, amplituda i czas dotarcia fali dźwiękowej, to ________.</para>
+          <list list-type="enumerated" number-style="upper-alpha" id="UUID35e21364-4f40-416d-5eef-190489a4d1cf">
+            <item id="UUID34eeeb57-97b2-41ca-55511b1c3f6bd7d8">
+              <para id="UUID615af43f-ac56-4de3-579c143b5d37ea61">wysokość</para>
+            </item>
+            <item id="UUIDedd380e4-c52c-4936-6173d34764c67249">
+              <para id="UUIDd743fb93-045c-48a8-5386ed855e94a5d4">ton</para>
+            </item>
+            <item id="UUIDe0ca4664-d7b9-4a42-5569a573e4760909">
+              <para id="UUID6ea4d381-3ef6-4b61-6d76e2e732be1711">elektromagnetyzm</para>
+            </item>
+            <item id="UUID4512829f-4f35-4ac8-63a5a6541cabc255">
+              <para id="UUID76aa1879-3fe9-4248-6b07a81d08d628e0">tembr</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp12334800">
+          <para id="fs-idm90854096">D</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm25780928" class="critical-thinking">
+      <title id="UUIDf98150d7-c603-457e-57dc2fd706c3d458">Critical thinking</title>
+      <exercise id="fs-idm59369024">
+        <problem id="fs-idm67871344">
+          <para id="fs-idm63284816">Jak sądzisz, dlaczego różne gatunki zwierząt mają odmienne zakresy wrażliwości na bodźce wzrokowe i słuchowe w porównaniu z ludźmi?</para>
+        </problem>
+        <solution id="fs-idm67830432">
+          <para id="fs-idm80845184">Różne gatunki zwierząt ewoluowały tak, aby możliwie najlepiej dopasować się do swoich nisz środowiskowych. Na przykład pszczoły potrzebują do przeżycia roślin kwitnących. Widzenie w świetle ultrafioletowym może być pomoce w lokalizowaniu kwiatów. Promieniowanie ultrafioletowe wskazuje na środek kwiatu, gdzie znajdują się pyłek i nektar. Podobne argumenty można wysunąć w przypadku widzenia w podczerwieni u węży (które dzięki tej zdolności wykrywają obecność swoich ofiar), a także dla różnic w zakresach słyszalnych u gatunków opisanych w tym rozdziale.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm64989984">
+        <problem id="fs-idm140704528">
+          <para id="fs-idm90062112">Jak sądzisz, dlaczego ludzie są szczególnie wrażliwi na dźwięki o częstotliwości przypadającej na środek zakresu częstotliwości słyszalnych?</para>
+        </problem>
+        <solution id="dd">
+          <para id="ad">Ponownie można tu wysunąć argument ewolucyjny. Biorąc pod uwagę fakt, że ludzki głos przypada na środek tego zakresu, a także znaczenie komunikacji między ludźmi, można wysnuć wniosek, że jest to przystosowanie adaptacyjne: zakres słyszalny odpowiada temu konkretnemu rodzajowi bodźca.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm59868416" class="personal-application">
+      <title id="UUIDc4cddf09-4f06-4114-7b5f082248f0cc9a">Pytanie do pracy własnej</title>
+      <exercise id="fs-idm61201808">
+        <problem id="fs-idm2626016">
+          <para id="fs-idm56237920">Jeśli w dzieciństwie towarzyszyło ci zwierzę domowe, to z pewnością zdarzały się sytuacje, gdy wydawało się, że zwierzak jakby słyszy coś, czego ty nie słyszysz. Po przeczytaniu tego rozdziału być może domyślasz się, co to mogło być. Jak wytłumaczysz to koledze, który nie uczestniczył w takich zajęciach?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID5d194b1d-c764-4ec8-7c68-f2278051133b">
+    <definition id="fs-idm67269216">
+      <term cmlnle:reference="amplituda" id="UUIDefdd0737-73f1-482b-4035-163ec4e154e7">amplituda (ang. <foreign xml:lang="en" id="UUIDdde05afc-ba96-47ab-6335-0e98256408bc"><term cxlxt:index="foreign" id="UUID49ec85df-4212-4f65-4344-05b59252f919">amplitude</term></foreign>)</term>
+      <meaning id="UUID37be012c-455e-4d5d-5c6d-30806ec473ce">
+        <para id="UUIDeb7f5301-1a31-4555-4a1cf3a2e110cbd5">odległość maksymalnego wychylenia od położenia równowagi w ruchu falowym</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm75103440">
+      <term cmlnle:reference="decybel (dB)" id="UUID7ab809bf-3acf-4a6a-538e-e9a83992cecd">decybel (dB) (ang. <foreign xml:lang="en" id="UUID570e0350-6b56-4cfc-5c5e-6b34c8e69b85"><term cxlxt:index="foreign" id="UUIDb3b57df1-fb29-4051-6217-b58ebe928995">decibel</term></foreign>)</term>
+      <meaning id="UUIDdd8e5fbe-e274-4f4e-51b6-428f0031f34f">
+        <para id="UUID55438737-a49f-4b57-7d738b5a2bbd0867">logarytmiczna jednostka natężenia dźwięku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm86600656">
+      <term cmlnle:reference="widmo elektromagnetyczne" id="UUID49860328-4668-4be2-58b4-67c62b9e1ad5">widmo elektromagnetyczne (ang. <foreign xml:lang="en" id="UUID64df3060-8a08-48f1-7d93-77aba70175e8"><term cxlxt:index="foreign" id="UUIDa350468d-0bfd-4199-4454-6dcf1e72f503">electromagnetic spectrum</term></foreign>)</term>
+      <meaning id="UUID21bb33fa-1d69-4248-6d7d-e2232280461e">
+        <para id="UUID8b1a0303-a2b6-45c5-6793ada790aace67">zakres częstości obserwowanego promieniowania elektromagnetycznego</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm98740400">
+      <term cmlnle:reference="częstotliwość" id="UUID2a8c0172-b238-4360-6bc9-5dfa5efc1955">częstotliwość (ang. <foreign xml:lang="en" id="UUIDa5e6d345-334a-4bce-712d-081215d1825a"><term cxlxt:index="foreign" id="UUIDec2805dd-b8f8-4336-4467-4881159ef340">frequency</term></foreign>)</term>
+      <meaning id="UUIDa211303a-773f-474a-44aa-52bfbcfc86b3">
+        <para id="UUID9377a030-b8e6-48f2-6124be2801b092ea">liczba drgań fali w jednostce czasu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm88222768">
+      <term cmlnle:reference="herc (Hz)" id="UUIDac9a2879-6108-46ef-6c40-e51780b51ec2">herc (Hz) (ang. <foreign xml:lang="en" id="UUID1158a942-6ff9-4b8a-465b-43af3d175b4b"><term cxlxt:index="foreign" id="UUID61dd31b4-e998-411c-6703-a7d3cae31967">hertz</term></foreign>)</term>
+      <meaning id="UUID02a9857a-2640-436b-7364-cd1e947302a8">
+        <para id="UUIDc5c0c469-c778-4125-7e0e2d3d4efd1638">liczba drgań fali na sekundę; miara częstotliwości</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm59957328">
+      <term cmlnle:reference="grzbiet fali" id="UUIDcc2eb199-b7c9-4f4b-7ad3-47417a435c65">grzbiet fali (ang. <foreign xml:lang="en" id="UUIDdc53e809-2f3a-491b-4de8-f5864b149740"><term cxlxt:index="foreign" id="UUIDa12e3e36-c799-44f8-4f94-d9b4c7623821">peak</term></foreign>)</term>
+      <meaning id="UUIDc5231454-476b-4dc3-53c7-f0c39de459cf">
+        <para id="UUID53f87f37-9152-4340-67868a3a8106a060">maksimum wychylenia fali</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm39222352">
+      <term cmlnle:reference="wysokość dźwięku" id="UUID3a5d5fb7-14fd-4c97-5eb3-0ce13200f541">wysokość dźwięku (ang. <foreign xml:lang="en" id="UUID567a9af6-4a92-4f12-4fd2-b0d6fb596551"><term cxlxt:index="foreign" id="UUIDf148b245-2943-4cff-5ea3-e94660c55d1e">pitch</term></foreign>)</term>
+      <meaning id="UUID9febb002-52d9-4ce7-777d-5047c113bd64">
+        <para id="UUIDbe544904-7033-4492-6b488f96a0491d51">postrzeganie częstotliwości dźwięku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm10555952">
+      <term cmlnle:reference="tembr" id="UUID97538879-c69c-4a53-6769-32b39f4db233">tembr (ang. <foreign xml:lang="en" id="UUID324f1c64-f211-41ef-7fba-de5a37099143"><term cxlxt:index="foreign" id="UUIDb3db0aed-555c-47d3-7efb-9f9c2c030380">timbre</term></foreign>)</term>
+      <meaning id="UUID1b4b95f3-40f6-4ad4-57c4-5a94af0627e0">
+        <para id="UUID1b3fc076-fc05-4f4d-7cb08152b28bc3d0">barwa dźwięku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm88359392">
+      <term cmlnle:reference="dolina fali" id="UUID7e0bb389-b7ad-45af-63d4-f3e57d6ec843">dolina fali (ang. <foreign xml:lang="en" id="UUID3c282488-31ff-4c68-5820-12779974ed62"><term cxlxt:index="foreign" id="UUID6f51ce9c-8540-437e-7f56-3427ebd8c0e4">trough</term></foreign>)</term>
+      <meaning id="UUID87d8291e-f889-4117-52b5-54ae2aa1e3c5">
+        <para id="UUIDc0a3d0d1-9df1-4466-5b6810f88c300b0c">najniższy punkt fali</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp17396208">
+      <term cmlnle:reference="światło widzialne" id="UUID71173eb0-cf57-4a0b-7c29-768ff3ec90c3">światło widzialne (ang. <foreign xml:lang="en" id="UUID851faf3c-bda5-4a23-4248-87c8115eb30f"><term cxlxt:index="foreign" id="UUID076028cf-e1dd-463d-642c-8b3c45044eba">visible spectrum</term></foreign>)</term>
+      <meaning id="UUIDce12cd1b-6127-4bc1-46b4-53621fe9f52d">
+        <para id="UUIDc2a22fff-42c1-4198-675d228003735f39">ta część widma elektromagnetycznego, którą widzi człowiek</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm78642400">
+      <term cmlnle:reference="długość fali" id="UUIDecd41998-177e-40d7-54f6-3c2790dc6a5c">długość fali (ang. wavelength)</term>
+      <meaning id="UUIDcd245127-f54a-4ce6-7174-7363175eb52a">
+        <para id="UUID3a446510-d12d-41e1-4fa97be20f50d001">odległość między dwoma najbliższymi grzbietami fali</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>
