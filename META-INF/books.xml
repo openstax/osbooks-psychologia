@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="psychologia" collection-id="ce79b6d8-885b-464f-ab29-5b8ade422457" style="pl-psychology" href="../collections/psychologia.collection.xml" />
+    <book slug="psychologia" collection-id="728df0bb-e07f-489d-91e3-4734a5932f92" style="pl-psychology" href="../collections/psychologia.collection.xml" />
 </container>
