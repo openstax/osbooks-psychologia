@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
   <metadata>
-    <md:content-id>ce79b6d8-885b-464f-ab29-5b8ade422457</md:content-id>
-    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
+    <md:content-id>col32565</md:content-id>
     <md:title>Psychologia</md:title>
+    <md:slug>psychologia</md:slug>
     <md:language>pl</md:language>
-    <md:version>1664978290</md:version>
-    <md:created>2022-10-05T13:58:10.085694103+00:00</md:created>
-    <md:revised>2022-10-05T13:58:10.085694103+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
+    <md:uuid>728df0bb-e07f-489d-91e3-4734a5932f92</md:uuid>
     <md:license url="https://creativecommons.org/licenses/by/4.0/deed.pl">
       
       Uznanie autorstwa (CC BY)
       
     </md:license>
-    <md:uuid>ce79b6d8-885b-464f-ab29-5b8ade422457</md:uuid>
-    <md:slug>psychologia</md:slug>
+
   </metadata>
   <content>
     <module document="m89426" />

@@ -3,22 +3,8 @@
   <title>Techniki terapeutyczne</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m89465</md:content-id>
-    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
     <md:title>Techniki terapeutyczne</md:title>
     <md:language>pl</md:language>
-    <md:version>2022-10-05T13:58:10.068279203+00:00</md:version>
-    <md:created>2022-10-05T13:58:10.068279203+00:00</md:created>
-    <md:revised>2022-10-05T13:58:10.068279203+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:abstract />
     <md:uuid>ccad189f-917e-4a0c-b6f6-54cdbbcb0c33</md:uuid>
   </metadata>

@@ -3,22 +3,8 @@
   <title>Czym jest osobowość?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m89654</md:content-id>
-    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
     <md:title>Czym jest osobowość?</md:title>
     <md:language>pl</md:language>
-    <md:version>2022-10-05T13:58:09.772725424+00:00</md:version>
-    <md:created>2022-10-05T13:58:09.772725424+00:00</md:created>
-    <md:revised>2022-10-05T13:58:09.772725424+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:abstract />
     <md:uuid>658f2656-f314-4670-a166-cad74112dc74</md:uuid>
   </metadata>

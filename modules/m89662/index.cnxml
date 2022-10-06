@@ -3,22 +3,8 @@
   <title>Podejścia humanistyczne</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m89662</md:content-id>
-    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
     <md:title>Podejścia humanistyczne</md:title>
     <md:language>pl</md:language>
-    <md:version>2022-10-05T13:58:09.797509286+00:00</md:version>
-    <md:created>2022-10-05T13:58:09.797509286+00:00</md:created>
-    <md:revised>2022-10-05T13:58:09.797509286+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:abstract />
     <md:uuid>2f1088e9-0976-4ed2-ae76-b7be720272c5</md:uuid>
   </metadata>

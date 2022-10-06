@@ -3,22 +3,8 @@
   <title>Etyka</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m89514</md:content-id>
-    <md:repository>adaptarr-staging.naukosfera.com</md:repository>
     <md:title>Etyka</md:title>
     <md:language>pl</md:language>
-    <md:version>2022-10-05T13:58:09.394573213+00:00</md:version>
-    <md:created>2022-10-05T13:58:09.394573213+00:00</md:created>
-    <md:revised>2022-10-05T13:58:09.394573213+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr-staging.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:abstract />
     <md:uuid>73df8f12-ee5b-4d29-b203-90e18e78a386</md:uuid>
   </metadata>
