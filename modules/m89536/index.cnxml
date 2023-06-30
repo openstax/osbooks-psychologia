@@ -330,7 +330,7 @@
       </meaning>
     </definition>
     <definition id="fs-id1345273">
-      <term cmlnle:reference="próg pobudzenia" id="UUID78bbfa8f-e3b0-435a-4a26-fee98554be6e">próg pobudzenia (ang. <foreign xml:lang="en" id="UUID81c0d378-6a8e-4ad8-72b8-d77bc69044ac"><term cxlxt:index="foreign" id="UUID6d92a99c-9831-4938-6f01-1155bf39f6ee">threshold o⁠f excitation</term></foreign>)</term>
+      <term cmlnle:reference="próg pobudzenia" id="UUID78bbfa8f-e3b0-435a-4a26-fee98554be6e">próg pobudzenia (ang. <foreign xml:lang="en" id="UUID81c0d378-6a8e-4ad8-72b8-d77bc69044ac"><term cxlxt:index="foreign" id="UUID6d92a99c-9831-4938-6f01-1155bf39f6ee">threshold of excitation</term></foreign>)</term>
       <meaning id="UUID18be6fb3-1693-4e0e-7e36-c42097bf5100">
         <para id="UUID04cb2a59-8462-408f-794aa9056ab4804c">poziom potencjału elektrycznego w błonie, którego przekroczenie wywołuje potencjał czynnościowy</para>
       </meaning>
