@@ -9,6 +9,21 @@
     <md:uuid>c359bd87-f0cd-4d03-b8db-908120d98160</md:uuid>
   </metadata>
   <content>
+  <section id="UUID076ceffd-b77b-4060-7dd9-7730dbb7e48d" class="learning-objectives">
+      <title id="UUIDc42c7e37-38b4-44f2-70bf-e6f0689ff821">Cel dydaktyczny:</title>
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID0f9bced6-70e8-4c78-7603-644db4fd65fa">
+          <para id="UUID958af3b9-607f-469f-7110-e408f9a3b559">Wymienić główne gruczoły układu hormonalnego</para>
+        </item>
+        <item id="UUID260ade6c-6698-4a51-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-9018-481b-66a1-18a0f6ac7628">Wskazać hormony wydzielane przez każdy gruczoł</para>
+        </item>
+        <item id="UUID260ade6c-ffre-4a51-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-9018-wwwe-66a1-18a0f6ac7628">Opisać rolę każdego hormonu w regulacji funkcji organizmu</para>
+        </item>
+      </list>
+    </section>
     <para id="fs-id1490744"><term cmlnle:reference="układ wewnątrzwydzielniczy" id="UUID347f9b80-96a1-49bf-7be8-a0621bb3786b">Układ wewnątrzwydzielniczy</term> (inaczej <term cmlnle:reference="układ dokrewny" id="UUID042dc9de-8279-4cb9-6c28-b4c525b85ebc">dokrewny</term>, <term cmlnle:reference="układ hormonalny" id="UUID6c9f6701-5470-4d4b-5558-845443930470">hormonalny</term> lub <term cmlnle:reference="układ endokrynny" id="UUID17eb50a3-8dc6-4e43-7d75-d049368b88ee">endokrynny</term>) (ang. <foreign xml:lang="en" id="UUID68cd5286-7293-4b45-480c-1241bebcabd1"><term cxlxt:index="foreign" id="UUIDd7a3f1b4-4e89-43bb-5145-ccfc6d16ee3b">endocrine system</term></foreign>) to zestaw gruczołów wytwarzających substancje chemiczne – <term cmlnle:reference="hormon" id="UUID4a757f29-df0f-4a7c-416d-4323ba18dbc1">hormony</term> (ang. <foreign xml:lang="en" id="UUID94795bd3-03a7-4364-41fd-04e2369c0496"><term cxlxt:index="foreign" cmlnle:reference="hormone" id="UUID0576e99b-4640-4590-46db-0068f63da121">hormones</term></foreign>) (<link target-id="CNX_Psych_03_05_Endocrine" id="UUIDbf9dd12d-b8ac-4753-457c-6a2a9244d60d" />). Podobnie jak neuroprzekaźniki, hormony są chemicznymi przekaźnikami i żeby przesłać sygnał, muszą się związać z receptorem. W przeciwieństwie do neuroprzekaźników jednak nie muszą być wydzielane w bezpośrednim sąsiedztwie komórek docelowych. Zamiast tego są uwalniane do krwiobiegu i wędrują z krwią po całym ciele, oddziałując na wszystkie komórki posiadające odpowiednie receptory. Dlatego neuroprzekaźniki działają miejscowo, hormony zaś – całościowo. Działanie hormonów jest bardziej opóźnione niż neuroprzekaźników, ale efekt ich działania trwa dłużej.</para>
     <figure id="CNX_Psych_03_05_Endocrine">
       <media alt="Schemat ludzkiego ciała przedstawia położenie grasicy, pewnych struktur w mózgu (szyszynki, podwzgórza, wzgórza, przysadki mózgowej) oraz części tarczycy (chrząstka tarczowa, gruczoł tarczowy, przytarczyce, tchawica), nadnerczy, trzustki, macicy, jajników i jąder." id="UUIDf4a8a1da-2206-47e2-5a4f-b5cba8082088">

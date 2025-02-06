@@ -9,6 +9,21 @@
     <md:uuid>7012f466-e27f-42e9-bb25-811b70cf1c5e</md:uuid>
   </metadata>
   <content>
+  <section id="UUID076ceffd-b77b-4060-7dd9-7730dbb7e48d" class="learning-objectives">
+      <title id="UUIDc42c7e37-38b4-44f2-70bf-e6f0689ff821">Cel dydaktyczny:</title>
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID0f9bced6-70e8-4c78-7603-644db4fd65fa">
+          <para id="UUID958af3b9-607f-469f-7110-e408f9a3b559">Wyjaśnić podstawowe zasady teorii ewolucji na drodze doboru naturalnego</para>
+        </item>
+        <item id="UUID260ade6c-6698-4a51-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-9018-481b-66a1-18a0f6ac7628">Omówić różnice między genotypem a fenotypem</para>
+        </item>
+        <item id="UUID260ade6c-6698-6564-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-9018-88iu-66a1-18a0f6ac7628">Omówić, w jaki sposób interakcje gen-środowisko są krytyczne dla wyrażania cech fizycznych i psychicznych</para>
+        </item>
+      </list>
+    </section>
     <para id="UUID161e2e3f-89ae-488f-76e6d7666f39399b">Psychologowie studiują genetykę, by lepiej zrozumieć biologiczne podstawy niektórych zachowań. I chociaż organizm każdego z nas jest zbudowany z tych samych elementów – mózgu, komórek z materiałem genetycznym – przejawem ich funkcjonowania jest bardzo szeroki wachlarz zachowań, myśli i reakcji.</para>
     <para id="fs-id1337483">Dlaczego z dwojga ludzi zakażonych tym samym zarazkiem jedno przeżywa, a drugie poddaje się chorobie? Jak choroby genetyczne przekazywane są z pokolenia na pokolenie? Czy choroby psychiczne takie jak depresja lub schizofrenia mogą mieć podłoże genetyczne? Do jakiego stopnia cechy psychiczne mogą wpływać na takie choroby jak otyłość dziecięca?</para>
     <para id="fs-id1510087">By znaleźć odpowiedzi na te pytania, zacznijmy od choroby genetycznej zwanej <term cmlnle:reference="anemia sierpowata" id="UUID2246d250-badf-41f3-6a67-1bfd4fbe3e49">anemią sierpowatą</term> (ang. <foreign xml:lang="en" id="UUID871b5cd2-12a1-4d71-6c48-abd5eedd975c"><term cxlxt:index="foreign" id="UUIDa46d4d92-bbdf-417e-509c-e6adf6a976a1">sickle-cell anemia</term></foreign>) i zastanówmy się, jak może ona objawiać się u dwóch chorujących na nią sióstr. Anemia sierpowata to genetyczna przypadłość, w której czerwone krwinki (erytrocyty), prawidłowo okrągłe, przybierają kształt sierpa (<link target-id="CNX_Psych_03_01_SickleCell" id="UUID6535d554-0775-4ea9-53ad-720fe5a1cc11" />). Zmiana kształtu (w wyniku zmienionej budowy hemoglobiny – białka transportującego tlen we krwi) wpływa na funkcję: krwinki sierpowate mogą zatykać drobne naczynia krwionośne, tamując w nich przepływ krwi. Skutkiem jest wysoka gorączka, silny ból, obrzęk i uszkodzenie tkanek oraz niedokrwistość.</para>

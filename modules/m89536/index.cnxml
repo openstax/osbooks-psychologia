@@ -9,6 +9,21 @@
     <md:uuid>50d94caa-0278-4d2a-81c8-a0abc88da6a9</md:uuid>
   </metadata>
   <content>
+  <section id="UUID076ceffd-b77b-4060-7dd9-7730dbb7e48d" class="learning-objectives">
+      <title id="UUIDc42c7e37-38b4-44f2-70bf-e6f0689ff821">Cel dydaktyczny:</title>
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID0f9bced6-70e8-4c78-7603-644db4fd65fa">
+          <para id="UUID958af3b9-607f-469f-7110-e408f9a3b559">Rozpoznać podstawowe części neuronu</para>
+        </item>
+        <item id="UUID260ade6c-6698-4a51-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-9018-481b-66a1-18a0f6ac7628">Opisać, w jaki sposób neurony komunikują się ze sobą</para>
+        </item>
+        <item id="UUID260ade6c-6698-4455-75d1-b82901462380">
+          <para id="UUID7ac9a4bd-uu78-481b-66a1-18a0f6ac7628">Wyjaśnić, w jaki sposób leki działają jako agoniści lub antagoniści danego układu neuroprzekaźników</para>
+        </item>
+      </list>
+    </section>
     <para id="fs-id1365204">Psychologowie próbujący zrozumieć ludzki umysł interesują się także funkcjonowaniem układu nerwowego. Wiedza o tym, jak funkcjonują ludzkie komórki i narządy (przede wszystkim takie jak mózg), pomaga nam zrozumieć biologiczne podstawy ludzkiej psychiki. <term cmlnle:reference="układ nerwowy" id="UUIDb8b4fb7d-2b16-4ba9-4409-a01a9a8fc64a">Układ nerwowy</term> (ang. <foreign xml:lang="en" id="UUID66221874-d904-408d-61f5-3120058ed713"><term cxlxt:index="foreign" id="UUID35e86b2a-10e0-41f4-7b61-2f2f01422af8">nervous system</term></foreign>) składa się z dwóch podstawowych rodzajów komórek nerwowych: komórek glejowych (zwanych też glejem) i neuronów. Tych pierwszych jest dziesięć razy więcej i tradycyjnie sądzono, że pełnią wobec neuronów funkcje podtrzymujące, zarówno mechanicznie, jak i metabolicznie. <term cmlnle:reference="komórka glejowa" id="UUID5b1da6cf-1aca-4042-45aa-22640dba6500">Komórki glejowe</term> (ang. <foreign xml:lang="en" id="UUIDae3252f1-e12e-4e17-74d8-7f395110d31d"><term cxlxt:index="foreign" id="UUID9cd209c0-c909-4f1a-6d37-ce58652057c9">glial cells</term></foreign>) stanowią rusztowanie, na którym opierają się neurony, pomagają im kontaktować się ze sobą, by umożliwić przepływ informacji, zapewniają izolację, przenoszą składniki odżywcze i odbierają produkty przemiany materii, a także uczestniczą w odpowiedzi immunologicznej. Z kolei <term id="UUID76ce09a7-0cfd-41d3-7c5e-dc5020e7e0e2">neurony</term> (in. <term id="UUIDef4b83c9-e64e-4160-4cd0-fc05f652663b">komórki nerwowe</term>) (ang. <foreign xml:lang="en" id="UUIDe44700dd-fcb2-436a-4385-7eaf0ba4b78d"><term cxlxt:index="foreign" id="UUID39992bc1-596d-4ed2-73cd-7b72f1d1911f">neurons</term></foreign>) to połączone ze sobą elementy integrujące i przekazujące informacje niezbędne do wypełniania wszelkich zadań układu nerwowego. W tym podrozdziale omówimy pokrótce budowę i funkcje neuronów.</para>
     <section id="fs-id1470001">
       <title id="UUID44107e57-c44d-424b-65b51ca9f191019b">Struktura neuronów</title>
